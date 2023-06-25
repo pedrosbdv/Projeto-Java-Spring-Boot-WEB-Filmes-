@@ -1,2 +1,2 @@
 # Projeto-Java-Spring-Boot-WEB-Filmes-
-Projeto feito para mostrar meus conhecimentos em Java WEB com Spring Boot
+Site desenvolvido com Java, CSS, Spring Boot, Thymeleaf, Maven, MySQL, HTML, CSS com intuito de mostrar meus conhecimentos.
